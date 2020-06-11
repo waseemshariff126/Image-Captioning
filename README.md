@@ -15,3 +15,4 @@ The project is structured as a series of Jupyter notebooks that are designed to 
 
 **You MUST enable GPU mode for this project**
 
+<img src= image.png>
